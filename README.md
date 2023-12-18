@@ -52,7 +52,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![image](https://github.com/MartindIT/network-fileshare/assets/151476834/fbccceab-c0fb-486b-a123-ba03400ccf66)
 ![image](https://github.com/MartindIT/network-fileshare/assets/151476834/b5e7bff4-81da-44c1-a330-c11a7ab095a1)
 
-**5.)Finally just add your fake account as a member of Accountants and then go back to Client-1 VM and browse into the Accountants Folder.
+**5.)Finally just add your fake account as a member of Accountants and then go back to Client-1 VM and restart and browse into the Accountants Folder where you would be greeting by nothing so I added a text saying welcome!! but other than that I really enjoyed this Project because you get to add a lot of permissions that allow someone to enter a restricted area and enable someone who has no access to have complete access to one important file.*(And it just goes to show you that not everyone should have access to company files becasue of the altercations that could be made)***
 
 
 
